@@ -1,0 +1,49 @@
+/* !!! NAVBAR CSS */
+.navbar-custom {
+    
+    background-color:#e91e63;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%!important;
+    padding-bottom: 1%!important;
+  }
+  .nav-link {
+    
+    color: black !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .navbar-title-image{
+      width: 10%;
+  }
+
+  .social-icon {
+    margin: 20px 10px;
+  }
+  #footer{
+      padding: 7% 15%;
+      text-align: center;
+      ;
+  }
+
+  .section-heading{
+      width: 45%;
+      margin: auto;
+      text-align: center;
+      border-bottom: 3px solid #e91e63;
+      margin-bottom: 3%;
+
+  }
+  #privacy-policy{
+      padding: 5% 15%;
+  }
+  #terms-of-service{
+    padding: 7% 15%;
+    background-color: #feb9e3;
+}
+.font-style1{
+    font-weight: bold;
+}
+.font-style2{
+    font-weight: 600;
+}
+  
